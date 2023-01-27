@@ -1,0 +1,108 @@
+Credit :
+Mapping by patoche#4702
+
+WELCOME TO Redwood company ! 
+
+
+-----------------------------------------------------------------------------
+Thank you for purchasing the mapping
+
+To avoid LEAK because it would be a shame to share this mapping:
+Do not give access to your server to developers in whom you do not have
+ the extreme confidence. They can work on a localhost because know that they 
+can recover all your resources. Be smart and careful.
+-----------------------------------------------------------------------------
+Install : 
+
+Mapping
+step 1 :  Copy/Past the folder " patoche_tabac " on your resource folder .
+step 2 : Open your server.cfg and Start/Encure patoche_tabac .
+
+Car : 
+for spawn the replace texture car do /car burrito2
+if you don't want the car , delete the file burrito2.ytd
+
+
+------------------------------------------------------------------------------
+
+
+bat1
+
+place : big red left door
+Name of door : patoche_tabac_door1
+position : X:2878.094 Y:4492.137 Z:49.1077
+
+place : big red right door
+Name of door : patoche_tabac_door2
+position : X:2882.014 Y:4490.65 Z:49.1077
+
+
+place : small door
+Name of door : patoche_tabac_door3
+position : X:2890 Y:4503.366 Z:48.10302
+
+
+-----------------------------------------------------------------
+
+bat2
+
+place : big red left door
+Name of door : patoche_tabac_door1
+position : X:2896.057 Y:4484.188 Z:49.10787
+
+place : big red right door
+Name of door : patoche_tabac_door2
+position : X:2899.501 Y:4481.709 Z:49.1095
+
+
+
+-----------------------------------------------------------------
+bat3
+
+place : big red left door
+Name of door : patoche_tabac_door1
+position : X:2910.771 Y:4471.516 Z:49.10765
+
+place : big red right door
+Name of door : patoche_tabac_door2
+position : X:2913.38 Y:4468.202 Z:49.10285
+
+
+place : small door
+Name of door : patoche_tabac_door3
+position : X:2926.734 Y:4475.206 Z:48.0952
+-----------------------------------------------------------------
+office
+
+place : entrance
+Name of door : v_ilev_ml_door1
+position : X:2905.392 Y:4406.055 Z:50.44262
+
+place : office
+Name of door : v_ilev_cf_officedoor
+position : X:2900.338 Y:4408.662 Z:50.4423
+
+
+place : cloakroom
+Name of door : v_ilev_247_offdorr
+position : X:2894.67 Y:4415.922 Z:50.43756
+
+-----------------------------------------------------------------
+garage
+
+place : near office
+Name of door : patoche_tabac_doorgarage1
+position : X:2885.387 Y:4387.628 Z:51.75434
+
+place : delivery face
+Name of door : patoche_tabac_doorgarage1
+position : X:2870.348 Y:4414.485 Z:50.22422
+
+
+
+
+
+
+
+
+
